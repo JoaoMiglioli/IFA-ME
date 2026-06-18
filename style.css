@@ -1,8 +1,16 @@
-header
-{
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: aquamarine;
+body {
+    font-family: 'Courier New', Courier, monospace;
     font-size: large;
-    text-align: justify;
-    
+    font-weight: bolder;
+    font-style: italic;
+    background-color: blanchedalmond;
+    background-position: 120% 50%; 
+}
+header{
+    text-align: center;
+    background-color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    font-style: oblique;
+    background-position: 0% 0%;
 }
