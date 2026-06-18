@@ -5,6 +5,8 @@ body {
     font-style: italic;
     background-color: blanchedalmond;
     background-position: 120% 50%; 
+    text-align: justify;
+    text-transform: capitalize;
 }
 header{
     text-align: center;
