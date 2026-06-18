@@ -16,3 +16,12 @@ header{
     font-style: oblique;
     background-position: 0% 0%;
 }
+.galeria {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.galeria img {
+    width: 300px;
+}
