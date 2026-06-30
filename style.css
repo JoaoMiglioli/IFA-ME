@@ -33,3 +33,10 @@ header{
     font-family: 'Courier New', Courier, monospace;
     color: aquamarine;
 }
+h1 {font-size: x-large;
+    font-weight: bolder;
+    font-style: oblique;
+    color: blueviolet;
+    text-decoration: underline;
+
+}
